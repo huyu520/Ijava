@@ -6,7 +6,7 @@
 package com.hy.base;
 
 /**
- *
+ *ss
  */
 public class Holder <T> {
 	private T holding;
