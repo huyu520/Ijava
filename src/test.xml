@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<noDB>
+	<header name="memcache">
+	  <maxWait>20</maxWait>
+	  <serverIp>192.168.0.7,127.0.0.1</serverIp>
+	  <serverPort>key,value;key_1,value_2</serverPort>
+	  <serverPass>mcat</serverPass>
+	</header>
+	<header name="redis">
+	  <maxWait>20</maxWait>
+	  <serverIp>192.168.0.7,127.0.0.1</serverIp>
+	  <serverPort>key,value;key_1,value_2</serverPort>
+	  <serverPass>mcat</serverPass>
+	</header>
+</noDB>
+
