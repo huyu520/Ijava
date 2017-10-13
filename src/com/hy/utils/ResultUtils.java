@@ -6,7 +6,10 @@ import org.slf4j.LoggerFactory;
 import com.hy.base.Result;
 
 /**
- * Created by raymondlei.ljw on 2015/12/15.
+ * 
+ * 作用:Result 工具处理类
+ * @author wb-hy292092
+ * @date 2017年10月13日 下午4:21:36
  */
 public class ResultUtils {
 
