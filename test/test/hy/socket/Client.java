@@ -36,4 +36,13 @@ public class Client implements BaseData {
 			e.printStackTrace();
 		}
 	}
+
+	/* (non-Javadoc)
+	 * @see test.hy.socket.BaseData#printToConsole(java.lang.String)
+	 */
+	@Override
+	public void printToConsole(String data) {
+		// TODO Auto-generated method stub
+		
+	}
 }

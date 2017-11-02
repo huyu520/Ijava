@@ -13,5 +13,8 @@ public interface BaseData extends Serializable {
 	public static final String local_address = "127.0.0.1";
 
 	public static final int local_port = 7777;
+	
+	void printToConsole(String data);
+	
 
 }
